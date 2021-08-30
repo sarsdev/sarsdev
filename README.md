@@ -69,3 +69,5 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sarsdev&show_icons=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarsdev&layout=compact"/>
 </p>
+
+<img width="100%" src="https://www.codewars.com/users/sarsdev/badges/small" />
