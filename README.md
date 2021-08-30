@@ -17,13 +17,18 @@
 
 ### Languages and Tools (Linguagens e Ferramentas)
 
+![C](https://img.shields.io/badge/-C-05122A?&logo=c)
+![Java](https://img.shields.io/badge/-Java-05122A?&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
+![HTML](https://img.shields.io/badge/-HTML-05122A?&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?&logo=css3)
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <!--
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-05122A?&logo=Python)
 ![React](https://img.shields.io/badge/-React-05122A?&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript)
@@ -65,9 +70,8 @@
 -->
 
 ### Statistics (Estatísticas)
-<p align="center">
+<p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sarsdev&show_icons=true" />
+  <img align="top" width="48%" src="https://www.codewars.com/users/sarsdev/badges/small" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarsdev&layout=compact"/>
 </p>
-
-<img width="100%" src="https://www.codewars.com/users/sarsdev/badges/small" />
