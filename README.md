@@ -45,6 +45,16 @@
 ![Vim](https://img.shields.io/badge/-VIM-05122A?style=flat&logo=neovim)
 -->
 
+### Statistics (Estatísticas)
+<div>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sarsdev&show_icons=true" />
+  <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarsdev&layout=compact"/>
+</div>
+![Snake animation](https://github.com/sarsdev/sarsdev/blob/output/github-contribution-grid-snake.svg)
+
+### Challenges (Desafios)
+<img width="40%" src="https://www.codewars.com/users/sarsdev/badges/small" />
+
 ### Speak to me (Fale comigo)
 
 <a href="mailto:sarsdesenv@gmail.com">
@@ -68,10 +78,3 @@
         <img src="https://img.shields.io/badge/-manigandand.com-242424?style=flat-square&logo=circle&logoColor=white" /></a>
 </p>
 -->
-
-### Statistics (Estatísticas)
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sarsdev&show_icons=true" />
-  <img align="top" width="48%" src="https://www.codewars.com/users/sarsdev/badges/small" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarsdev&layout=compact"/>
-</p>
