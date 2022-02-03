@@ -54,7 +54,7 @@
 ![Snake animation](https://github.com/sarsdev/sarsdev/blob/output/github-contribution-grid-snake.svg)
 
 ### Challenges (Desafios)
-<img width="40%" src="https://www.codewars.com/users/sarsdev/badges/small" />
+<img width="50%" src="https://www.codewars.com/users/sarsdev/badges/small" />
 
 ### Speak to me (Fale comigo)
 
