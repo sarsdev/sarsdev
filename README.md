@@ -50,6 +50,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sarsdev&show_icons=true" />
   <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarsdev&layout=compact"/>
 </div>
+
 ![Snake animation](https://github.com/sarsdev/sarsdev/blob/output/github-contribution-grid-snake.svg)
 
 ### Challenges (Desafios)
